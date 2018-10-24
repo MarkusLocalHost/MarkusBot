@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="geo_data@localhost" uuid="c68c0a71-e7a9-4477-a974-0820d0d9818a">
+      <database-info product="PostgreSQL" version="10.4 (Ubuntu 10.4-0ubuntu0.18.04)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>markus</user-name>
+      <introspection-schemas>geo_data:@,public</introspection-schemas>
+    </data-source>
+  </component>
+</project>
